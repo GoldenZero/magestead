@@ -1,7 +1,7 @@
 ---
 ip: "192.168.47.10"
-memory: 2048
-cpus: 1
+memory: 4048
+cpus: 2
 
 authorize: ~/.ssh/id_rsa.pub
 
