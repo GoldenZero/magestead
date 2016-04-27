@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config>
+    <modules>
+        <Qordoba_Connector>
+            <active>true</active>
+            <codePool>community</codePool>
+        </Qordoba_Connector>
+    </modules>
+</config>
