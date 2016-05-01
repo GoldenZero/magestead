@@ -4,3 +4,4 @@ vendor/
 composer.lock
 laravel/
 symfony/
+magento/var/
